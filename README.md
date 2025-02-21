@@ -1,4 +1,4 @@
-# product-web-scraper
+# Product Web Scraper
 
 ## Instructions
 <pre><code>
